@@ -118,17 +118,18 @@ Durante el desarrollo del proyecto utilizamos diferentes conceptos de Programaci
 
 5. Instrucciones para paso a paso
 
-1. Ejecutar el run java.
+- Ejecutar el run java.
 
-2. Al ejecutar el run java saldrá un menú, marque la tecla # 1, para registrar los datos de su vehiculó como: (placa, marca, modelo y color), marque tecla #2 si desea ver los vehículos registrados en el sistema.
+- Al ejecutar el run java saldrá un menú, marque la tecla # 1, para registrar los datos de su vehiculó como: (placa, marca, modelo y color), marque tecla #2 si desea ver los vehículos registrados en el sistema.
 
- 3. Marque la tecla # 3 para buscar el vehiculó por la placa.
+- Marque la tecla # 3 para buscar el vehiculó por la placa.
 
- 4.  Al marcar la tecla 4 saldrán lo siguiente: ingresar placa registrada, ingresar la hora de entrada después ingresar hora de salida, las horas debe ser militar (00:00- 23:59), teniendo el registro de las horas de entrada y salida, el sistema calcula las de horas de permanencia en el parqueadero  y valor a cobrar de las horas.
+- Al marcar la tecla 4 saldrán lo siguiente: ingresar placa registrada, ingresar la hora de entrada después ingresar hora de salida, las horas debe ser militar (00:00- 23:59), teniendo el registro de las horas de entrada y salida, el sistema calcula las de horas de permanencia en el parqueadero  y valor a cobrar de las horas.
 
- 5. Al marcar la tecla 5 mostrara el estado del parqueadero, de cuantos cupos tiene ocupados y disponibles.
+- Al marcar la tecla 5 mostrara el estado del parqueadero, de cuantos cupos tiene ocupados y disponibles.
 
- 6. marca tecla # 6 para salir del sistema.
+-Al marcar tecla # 6 para salir del sistema.
+
 
 
 6. Capturas de funcionamiento del código
