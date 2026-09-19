@@ -104,13 +104,11 @@ Durante el desarrollo del proyecto utilizamos diferentes conceptos de Programaci
 
 - Manejo de errores mediante try-catch.
 
- 
-
 5. Instrucciones para paso a paso
 
 1. Ejecutar el run java.
 
-2.Al ejecutar el run java saldrá un menú, marque la tecla # 1, para registrar los datos de su vehiculó como: (placa, marca, modelo y color), marque tecla #2 si desea ver los vehículos registrados en el sistema.
+2. Al ejecutar el run java saldrá un menú, marque la tecla # 1, para registrar los datos de su vehiculó como: (placa, marca, modelo y color), marque tecla #2 si desea ver los vehículos registrados en el sistema.
 
  3. Marque la tecla # 3 para buscar el vehiculó por la placa.
 
@@ -119,3 +117,16 @@ Durante el desarrollo del proyecto utilizamos diferentes conceptos de Programaci
  5. Al marcar la tecla 5 mostrara el estado del parqueadero, de cuantos cupos tiene ocupados y disponibles.
 
  6. marca tecla # 6 para salir del sistema.
+
+
+<img width="1920" height="428" alt="image" src="https://github.com/user-attachments/assets/2d0ca25e-73cc-4564-9326-615d90dfa1a3" />
+
+
+
+
+
+
+
+
+
+
