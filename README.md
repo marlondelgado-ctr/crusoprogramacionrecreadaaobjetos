@@ -1,3 +1,15 @@
+Sistema de Parqueadero
+
+Estudiantes:
+
+Marlon David Delgado Niño// 54439
+Isabella Calderón Triana// 54439
+Keiner Alfonso Durán Benthan// 54439
+Evelyn Andrea Hurtado Infante// 54439 
+
+
+
+
 1. Descripción
 
  
@@ -119,7 +131,15 @@ Durante el desarrollo del proyecto utilizamos diferentes conceptos de Programaci
  6. marca tecla # 6 para salir del sistema.
 
 
-<img width="1920" height="428" alt="image" src="https://github.com/user-attachments/assets/2d0ca25e-73cc-4564-9326-615d90dfa1a3" />
+6. Capturas de funcionamiento del código
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4e64cd94-aeae-4c38-a6ef-95be1ae1a6dc" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8592140b-883f-47ac-a0b0-c184cdfbab92" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a070c8a2-af0f-459f-8637-851573711b57" />
+
+
 
 
 
